@@ -6,6 +6,5 @@ https://youtu.be/6PfwuNt2L7I
 ```
 
 I created a new repo for this old project, earlier personal details were addres in the repo as it was private but not I deleted personal info and made it public,
-**
-This  project is just for educational purpose.**
+**This  project is just for educational purpose.**
 
